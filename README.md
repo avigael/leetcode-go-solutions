@@ -1,6 +1,6 @@
 # Golang LeetCode Solutions
 
-I'm trying to complete every LeetCode question see [here](https://leetcode.com/problemset/all/ "here") using Golang and providing detailed comments that explain the logic of the program in order to help people learn and understand algorithms in Golang.
+I'm trying to complete every LeetCode question [(seen here)](https://leetcode.com/problemset/all/ "LeetCode") using Golang and providing detailed comments that explain the logic of the program in order to help people learn and understand algorithms in Golang.
 
 ------------
 
